@@ -1,0 +1,13 @@
+Open Source Manifesto — 29 March 2026
+
+I believe in the freedom of Happiness.
+Every day I use VS Code, which proves that when we share code openly,
+the whole world benefits.
+
+If I could build and share one thing freely, it would be Any Software.
+
+Just like VLC Media Player — created by students so that no one
+can ever lock video behind a paywall — I choose to stand for open,
+transparent, and collaborative software.
+
+— tars-k
